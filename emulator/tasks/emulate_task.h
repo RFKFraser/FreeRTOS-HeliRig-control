@@ -9,7 +9,6 @@
 // Helicopter Rig Emulator
 //
 // Module: emulate_task.h
-// Author: Matthew Northcott / mno32@uclive.ac.nz
 // 
 //*****************************************************************************
 
