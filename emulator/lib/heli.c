@@ -9,7 +9,6 @@
 // Helicopter Rig Emulator
 //
 // Module: heli.c
-// Author: Matthew Northcott / mno32@uclive.ac.nz
 //
 //*****************************************************************************
 
