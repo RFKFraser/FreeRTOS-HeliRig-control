@@ -9,7 +9,6 @@
 // Helicopter Rig Emulator
 //
 // Module: rotor.h
-// Author: Matthew Northcott / mno32@uclive.ac.nz
 //
 //*****************************************************************************
 
