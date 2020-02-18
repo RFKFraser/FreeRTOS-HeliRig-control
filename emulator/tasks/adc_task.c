@@ -9,7 +9,7 @@
 // Helicopter Rig Emulator
 //
 // Module: adc_task.c
-// Author: Matthew Northcott / mno32@uclive.ac.nz
+
 // 
 //*****************************************************************************
 
